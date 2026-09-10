@@ -1,0 +1,139 @@
+[
+  {
+    "name": "Fisheye Lens",
+    "type": "toggle",
+    "img": "images/items/fisheye_lens.png",
+    "codes": "Fisheye Lens"
+  },
+  {
+    "name": "Anti-Fisheye Lens",
+    "type": "toggle",
+    "img": "images/items/anti_fisheye_lens.png",
+    "codes": "Anti-Fisheye Lens"
+  },
+  {
+    "name": "Flip Lens",
+    "type": "toggle",
+    "img": "images/items/flip_lens.png",
+    "codes": "Flip Lens"
+  },
+  {
+    "name": "Stretch Lens",
+    "type": "toggle",
+    "img": "images/items/stretch_lens.png",
+    "codes": "Stretch Lens"
+  },
+  {
+    "name": "Compress Lens",
+    "type": "toggle",
+    "img": "images/items/compress_lens.png",
+    "codes": "Compress Lens"
+  },
+  {
+    "name": "Swirl Lens",
+    "type": "toggle",
+    "img": "images/items/swirl_lens.png",
+    "codes": "Swirl Lens"
+  },
+  {
+    "name": "Portal Lens",
+    "type": "toggle",
+    "img": "images/items/portal_lens.png",
+    "codes": "Portal Lens"
+  },
+  {
+    "name": "Replicator Lens",
+    "type": "toggle",
+    "img": "images/items/replicator_lens.png",
+    "codes": "Replicator Lens"
+  },
+  {
+    "name": "X-Ray Lens",
+    "type": "toggle",
+    "img": "images/items/x_ray_lens.png",
+    "codes": "X-Ray Lens"
+  },
+  {
+    "name": "Color Lens",
+    "type": "toggle",
+    "img": "images/items/color_lens.png",
+    "codes": "Color Lens"
+  },
+  {
+    "name": "Apple",
+    "type": "toggle",
+    "img": "images/items/apple.png",
+    "codes": "Apple"
+  },
+  {
+    "name": "Horsefly Swatter",
+    "type": "toggle",
+    "img": "images/items/swatter.png",
+    "disabled_img": "images/items/disabled_swatter.png",
+    "codes": "Horsefly Swatter"
+  },
+  {
+    "name": "Perfect Accuracy",
+    "type": "toggle",
+    "img": "images/items/perfect.png",
+    "codes": "Perfect Accuracy"
+  },
+  {
+    "name": "Leniency",
+    "type": "consumable",
+    "img": "images/items/perfect.png",
+    "max_quantity": 20,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "Leniency"
+  },
+  {
+    "name": "Horses",
+    "type": "consumable",
+    "img": "images/items/horse.png",
+    "max_quantity": 40,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "Horses"
+  },
+  {
+    "name": "Goal Requirement",
+    "type": "consumable",
+    "img": "images/items/goal.png",
+    "max_quantity": 40,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 40,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "Goal Requirement"
+  },
+  {
+    "name": "Deathlink",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/items/disabled_deathlink.png",
+        "codes": "Deathlink,Grenade Deathlink",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/grenade_deathlink.png",
+        "codes": "Deathlink,Grenade Deathlink",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/jumpscare_deathlink.png",
+        "codes": "Deathlink,Jumpscare Deathlink",
+        "inherit_codes": false
+      }
+    ]
+  }
+]

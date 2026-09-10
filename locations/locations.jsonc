@@ -1,0 +1,1583 @@
+[
+  {
+    "name": "Locations",
+    "children": [
+      {
+        "name": "Level 1",
+        "access_rules": [
+          "Fisheye Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 20,
+            "y": 20
+          }
+        ]
+      },
+      {
+        "name": "Level 2",
+        "access_rules": [
+          "Fisheye Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 78,
+            "y": 20
+          }
+        ]
+      },
+      {
+        "name": "Level 3",
+        "access_rules": [
+          "Fisheye Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 136,
+            "y": 20
+          }
+        ]
+      },
+      {
+        "name": "Level 4",
+        "access_rules": [
+          "Fisheye Lens,Anti-Fisheye Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 194,
+            "y": 20
+          }
+        ]
+      },
+      {
+        "name": "Level 5",
+        "access_rules": [
+          "Fisheye Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 252,
+            "y": 20
+          }
+        ]
+      },
+      {
+        "name": "Level 6",
+        "access_rules": [
+          "Fisheye Lens,Anti-Fisheye Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 310,
+            "y": 20
+          }
+        ]
+      },
+      {
+        "name": "Level 7",
+        "access_rules": [
+          "Fisheye Lens,Anti-Fisheye Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 368,
+            "y": 20
+          }
+        ]
+      },
+      {
+        "name": "Level 8",
+        "access_rules": [
+          "Fisheye Lens,Anti-Fisheye Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 426,
+            "y": 20
+          }
+        ]
+      },
+      {
+        "name": "Level 9",
+        "access_rules": [
+          "Fisheye Lens,Anti-Fisheye Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 484,
+            "y": 20
+          }
+        ]
+      },
+      {
+        "name": "Level 10",
+        "access_rules": [
+          "Fisheye Lens,Anti-Fisheye Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 542,
+            "y": 20
+          }
+        ]
+      },
+      {
+        "name": "Level 11",
+        "access_rules": [
+          "Fisheye Lens,Anti-Fisheye Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 600,
+            "y": 20
+          }
+        ]
+      },
+      {
+        "name": "Level 12",
+        "access_rules": [
+          "Fisheye Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 20,
+            "y": 95
+          }
+        ]
+      },
+      {
+        "name": "Level 13",
+        "access_rules": [
+          "Fisheye Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 78,
+            "y": 95
+          }
+        ]
+      },
+      {
+        "name": "Level 14",
+        "access_rules": [
+          "Flip Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 136,
+            "y": 95
+          }
+        ]
+      },
+      {
+        "name": "Level 15",
+        "access_rules": [
+          "Fisheye Lens,Anti-Fisheye Lens,Flip Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 194,
+            "y": 95
+          }
+        ]
+      },
+      {
+        "name": "Level 16",
+        "access_rules": [
+          "Fisheye Lens,Flip Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 252,
+            "y": 95
+          }
+        ]
+      },
+      {
+        "name": "Level 17",
+        "access_rules": [
+          "Anti-Fisheye Lens,Flip Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 310,
+            "y": 95
+          }
+        ]
+      },
+      {
+        "name": "Level 18",
+        "access_rules": [
+          "Fisheye Lens,Flip Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 368,
+            "y": 95
+          }
+        ]
+      },
+      {
+        "name": "Level 19",
+        "access_rules": [
+          "X-Ray Lens,Apple"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 426,
+            "y": 95
+          }
+        ]
+      },
+      {
+        "name": "Level 20",
+        "access_rules": [
+          "Stretch Lens,Compress Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 484,
+            "y": 95
+          }
+        ]
+      },
+      {
+        "name": "Level 21",
+        "access_rules": [
+          "Fisheye Lens,Anti-Fisheye Lens,Stretch Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 542,
+            "y": 95
+          }
+        ]
+      },
+      {
+        "name": "Level 22",
+        "access_rules": [
+          "Stretch Lens,Compress Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 600,
+            "y": 95
+          }
+        ]
+      },
+      {
+        "name": "Level 23",
+        "access_rules": [
+          "Fisheye Lens,Flip Lens,Compress Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 20,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Level 24",
+        "access_rules": [
+          "Anti-Fisheye Lens,Compress Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 78,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Level 25",
+        "access_rules": [
+          "Swirl Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 136,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Level 26",
+        "access_rules": [
+          "Swirl Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 194,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Level 27",
+        "access_rules": [
+          "Flip Lens,Swirl Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 252,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Level 28",
+        "access_rules": [
+          "Anti-Fisheye Lens,Swirl Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 310,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Level 29",
+        "access_rules": [
+          "Color Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 368,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Level 30",
+        "access_rules": [
+          "Fisheye Lens,Compress Lens,Swirl Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 426,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Level 31",
+        "access_rules": [
+          "Swirl Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 484,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Level 32",
+        "access_rules": [
+          "Flip Lens,Swirl Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 542,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Level 33",
+        "access_rules": [
+          "Color Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 600,
+            "y": 170
+          }
+        ]
+      },
+      {
+        "name": "Level 34",
+        "access_rules": [
+          "Fisheye Lens,Compress Lens,Swirl Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 20,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Level 35",
+        "access_rules": [
+          "Compress Lens,Swirl Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 78,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Level 36",
+        "access_rules": [
+          "Anti-Fisheye Lens,Swirl Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 136,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Level 37",
+        "access_rules": [
+          "Color Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 194,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Level 38",
+        "access_rules": [
+          "Apple"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 252,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Level 39",
+        "access_rules": [
+          "Portal Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 310,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Level 40",
+        "access_rules": [
+          "Portal Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 368,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Level 41",
+        "access_rules": [
+          "Fisheye Lens,Swirl Lens,Portal Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 426,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Level 42",
+        "access_rules": [
+          "Portal Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 484,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Level 43",
+        "access_rules": [
+          "Portal Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 542,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Level 44",
+        "access_rules": [
+          "Fisheye Lens,Flip Lens,Replicator Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 600,
+            "y": 245
+          }
+        ]
+      },
+      {
+        "name": "Level 45",
+        "access_rules": [
+          "Replicator Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 20,
+            "y": 320
+          }
+        ]
+      },
+      {
+        "name": "Level 46",
+        "access_rules": [
+          "Replicator Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 78,
+            "y": 320
+          }
+        ]
+      },
+      {
+        "name": "Level 47",
+        "access_rules": [
+          "Compress Lens,Replicator Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 136,
+            "y": 320
+          }
+        ]
+      },
+      {
+        "name": "Level 48",
+        "access_rules": [
+          "Fisheye Lens,Horsefly Swatter"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 194,
+            "y": 320
+          }
+        ]
+      },
+      {
+        "name": "Level 49",
+        "access_rules": [
+          "Flip Lens,Swirl Lens,Replicator Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 252,
+            "y": 320
+          }
+        ]
+      },
+      {
+        "name": "Level 50",
+        "access_rules": [
+          "Flip Lens,Swirl Lens,Replicator Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 310,
+            "y": 320
+          }
+        ]
+      },
+      {
+        "name": "Level 51",
+        "access_rules": [
+          "Fisheye Lens,Flip Lens,Replicator Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 368,
+            "y": 320
+          }
+        ]
+      },
+      {
+        "name": "Level 52",
+        "access_rules": [
+          "Anti-Fisheye Lens,Flip Lens,Swirl Lens,Replicator Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 426,
+            "y": 320
+          }
+        ]
+      },
+      {
+        "name": "Level 53",
+        "access_rules": [
+          "Anti-Fisheye Lens,Flip Lens,Replicator Lens"
+        ],
+        "sections": [
+          {
+            "name": "Level Cleared",
+            "chest_unopened_img": "images/items/horse.png",
+            "chest_opened_img": "images/items/disabled_horse.png",
+            "item_count": 1
+          },
+          {
+            "name": "Level Perfected",
+            "chest_unopened_img": "images/items/perfect.png",
+            "chest_opened_img": "images/items/disabled_perfect.png",
+            "item_count": 1,
+            "visibility_rules": [
+              "Perfect Accuracy"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 484,
+            "y": 320
+          }
+        ]
+      },
+      {
+        "name": "Level 54",
+        "access_rules": [
+          "Fisheye Lens,Anti-Fisheye Lens,Stretch Lens,Compress Lens,Swirl Lens,Replicator Lens,$isGoMode"
+        ],
+        "sections": [
+          {
+            "name": "Go Mode",
+            "chest_unopened_img": "images/items/goal.png",
+            "chest_opened_img": "images/items/disabled_goal.png",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "level_select",
+            "x": 560,
+            "y": 330,
+            "size": 30
+          }
+        ]
+      }
+    ]
+  }
+]
