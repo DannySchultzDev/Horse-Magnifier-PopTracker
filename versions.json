@@ -1,12 +1,24 @@
 {
     "versions": [
-        {
-            "package_version": "1.0.0",
-            "download_url": "https://github.com/DannySchultzDev/Horse-Magnifier-PopTracker/releases/tag/V1.0.0",
-            "sha256": "705bc0aa67086ac3610b60f53e5caa232b463129e8595e48392667071c658fad",
-            "changelog": [
-                "The base PopTracker pack for Horse Magnifier: The Full Horse."
-            ]
-        }
+      {
+         "package_version": "1.0.0",
+         "download_url": "https://github.com/DannySchultzDev/Horse-Magnifier-PopTracker/releases/tag/V1.0.0",
+         "sha256": "705bc0aa67086ac3610b60f53e5caa232b463129e8595e48392667071c658fad",
+         "changelog": [
+            "The base PopTracker pack for Horse Magnifier: The Full Horse."
+         ]
+      },
+      {
+         "package_version": "1.1.0",
+         "download_url": "https://github.com/DannySchultzDev/Horse-Magnifier-PopTracker/releases/tag/V1.1.0",
+         "sha256": "7edb9abf0f5349ef12c44d571f9e5da8e6b58c6b1f30a892ea1b56a0cc633b21",
+         "changelog": [
+            "Removed deathlink and leniency sections of settings due to redundancy",
+            "Updated horse and goal images to 64x64 dimensions to match perfect accuracy location images",
+            "Moved settings from broadcast popout to settings popout",
+            "Moved horse items from settings to items",
+            "Renamed Go Mode location to Goal"
+         ]
+      }
     ]
 }
