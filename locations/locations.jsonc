@@ -1563,7 +1563,7 @@
         ],
         "sections": [
           {
-            "name": "Go Mode",
+            "name": "Goal",
             "chest_unopened_img": "images/items/goal.png",
             "chest_opened_img": "images/items/disabled_goal.png",
             "item_count": 1

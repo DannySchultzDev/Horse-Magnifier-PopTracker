@@ -1,0 +1,23 @@
+{
+  //sets the layout for the settings view
+  "settings_popup": {
+    "type": "array",
+    "orientation": "horizontal",
+    "margin": "0,0",
+    "background": "#202020",
+    "content": [
+      {
+        "type": "itemgrid",
+        "background": "#202020",
+        "item_margin": "10, 10",
+        "h_alignment": "left",
+        "rows": [
+            [
+            "Perfect Accuracy",
+            "Goal Requirement"
+            ]
+        ]
+      }
+    ]
+  }
+}

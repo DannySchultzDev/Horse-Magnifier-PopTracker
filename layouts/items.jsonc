@@ -23,7 +23,8 @@
                 "Flip Lens",
                 "Portal Lens",
                 "X-Ray Lens",
-                "Apple"
+                "Apple",
+                "Horses"
               ],
               [
                 "Anti-Fisheye Lens",
@@ -56,12 +57,9 @@
             "h_alignment": "left",
             "rows": [
               [
-                "Perfect Accuracy",
-                "Horses",
-                "Deathlink"
+                "Perfect Accuracy"
               ],
               [
-                "Leniency",
                 "Goal Requirement"
               ]
             ]
