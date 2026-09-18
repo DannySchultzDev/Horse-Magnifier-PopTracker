@@ -19,6 +19,14 @@
             "Moved horse items from settings to items",
             "Renamed Go Mode location to Goal"
          ]
+      },
+      {
+         "package_version": "1.1.1",
+         "download_url": "https://github.com/DannySchultzDev/Horse-Magnifier-PopTracker/releases/tag/V1.1.1",
+         "sha256": "8a7bfe459cb110b39f29061a426ff75e6d7ef0d484f7bccd910e72eb667af921",
+         "changelog": [
+            "Fixed Location icon issue"
+         ]
       }
     ]
 }
