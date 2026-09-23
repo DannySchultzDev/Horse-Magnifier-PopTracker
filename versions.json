@@ -27,6 +27,14 @@
          "changelog": [
             "Fixed Location icon issue"
          ]
+      },
+      {
+         "package_version": "1.1.2",
+         "download_url": "https://github.com/DannySchultzDev/Horse-Magnifier-PopTracker/releases/tag/V1.1.2",
+         "sha256": "b1224e5e20e31b1244737eb70d6ea4e13c3c100dfbd5de8a8ed0e9feeda19191",
+         "changelog": [
+            "Disabled smooth map scaling"
+         ]
       }
     ]
 }
