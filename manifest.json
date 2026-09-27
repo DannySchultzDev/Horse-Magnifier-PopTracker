@@ -7,7 +7,7 @@
   "author": "WaluigiGoesWa",
   "min_poptracker_version": "0.25.9",
   "target_poptracker_version": "0.35.4",
-  "versions_url": "https://github.com/DannySchultzDev/Horse-Magnifier-PopTracker/blob/main/versions.json",
+  "versions_url": "https://raw.githubusercontent.com/DannySchultzDev/Horse-Magnifier-PopTracker/refs/heads/main/versions.json",
   "variants": {
     "standard": {
       "display_name": "Map Tracker",
